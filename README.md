@@ -12,6 +12,7 @@
 | [机器学习](https://www.csie.ntu.edu.tw/~htlin/course/) 李宏毅 |
 | [深度学习](https://www.csie.ntu.edu.tw/~htlin/course/) 李宏毅 |
 | [cs229](http://cs229.stanford.edu/) |
+| [cs20](http://web.stanford.edu/class/cs20si/index.html)Tensorflow for Deep Learning Research |
 ## 机器学习编程
 
 
