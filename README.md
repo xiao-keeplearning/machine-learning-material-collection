@@ -14,7 +14,8 @@
 | [cs229](http://cs229.stanford.edu/) |
 | [cs20](http://web.stanford.edu/class/cs20si/index.html) Tensorflow for Deep Learning Research |
 ## 机器学习编程
-
+### python编程
+[python进阶](https://legacy.gitbook.com/book/eastlakeside/interpy-zh/details)
 
 
 ## 辅助工具
