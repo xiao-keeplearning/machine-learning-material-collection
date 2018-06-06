@@ -17,6 +17,8 @@
 ### python编程
 [python进阶](https://legacy.gitbook.com/book/eastlakeside/interpy-zh/details)
 
+#### numpy + pandas + matplotlib
+[利用python进行数据分析](https://www.jianshu.com/p/04d180d90a3f)
 
 ## 辅助工具
 [知识图谱网站](https://metacademy.org/)
