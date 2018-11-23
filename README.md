@@ -22,3 +22,6 @@
 
 ## 辅助工具
 [知识图谱网站](https://metacademy.org/)
+
+## 电子书下载
+[Library Genesis](http://gen.lib.rus.ec/)
